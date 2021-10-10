@@ -1,2 +1,1 @@
-# Animated Card
- Using Css3
+# Slide Out Hover Animation
